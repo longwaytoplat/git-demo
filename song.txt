@@ -1,0 +1,2 @@
+string_0
+string_1
