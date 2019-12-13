@@ -1,4 +1,6 @@
 string_0
 string_1
-строка_2
-строка_3
+string_2
+string_3
+
+string_n
